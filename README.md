@@ -25,7 +25,7 @@ SaaS de gestão de contratos jurídicos, aditivos e histórico de alterações, 
 
 - **Front-end:** Next.js (App Router, Server Components, Client Components), React, TypeScript, Tailwind CSS
 - **Back-end:** Server Actions do Next.js, BetterAuth
-- **Banco de dados:** PostgreSQL
+- **Banco de dados:** PostgreSQL com Drizzle ORM
 - **Infraestrutura:** AWS (S3)
 
 ## Autor
